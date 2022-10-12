@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Olvido">¿Olvido su contraseña?</string>
+    <string name="Crear">Crear Cuenta</string>
+    <string name="add1">Agregar Libro</string>
+    <string name="add2">Agregar Nota</string>
+    <string name="logout">Cerrar Sesion</string>
+    />
+</resources>
